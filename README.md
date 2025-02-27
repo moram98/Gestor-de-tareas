@@ -3,7 +3,7 @@
 ## Descripción
 Este es un sencillo gestor de tareas desarrollado en Java que permite a los usuarios administrar sus tareas mediante un menú interactivo en la consola.
 
-##Características
+##  Características
 - Agregar nuevas tareas con título, descripción y fecha de vencimiento.
 - Listar todas las tareas registradas.
 - Actualizar una tarea existente (título, descripción y fecha de vencimiento).
@@ -41,8 +41,8 @@ Tarea agregada correctamente!
 ```
 
 
-## ✉️ Autor
+## Autor
 **Maicol Mora**  
-📧 Contacto: https://www.linkedin.com/in/maicol-mora/
+Contacto: https://www.linkedin.com/in/maicol-mora/
 
 ---
